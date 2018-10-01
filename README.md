@@ -1,0 +1,2 @@
+# python-giris
+python beginner 
