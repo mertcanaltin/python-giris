@@ -1,0 +1,9 @@
+# -*- coding: cp1254 -*-
+
+## type demet elemaný yok 
+x = (4,)
+## herþey eklenir 
+y =["mert","can","altin"]
+
+print y
+print type (y) 

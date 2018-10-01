@@ -1,0 +1,39 @@
+# -*- coding: cp1254 -*-
+
+
+a = "elma"
+b ="armut"
+c ="kiraz"
+
+#mert i elma ile deðiþtirdim
+a = "mert"
+print list ((a,b,c))
+# 0 ýncý ve bir den baþlar 2 de durur 
+print a[0:2]
+
+
+#listedeki 3. elemaný bulcam
+
+print a [2]
+
+#listedeki tamamýný bulcam
+
+print a [:]
+
+# 0 dan altýya kadar ama 2 þer atlýyor
+
+print a [0:6:2]
+
+
+# 3. diziyi alcam 
+aile = "Anne", "Baba", "Kardesler"
+
+print aile [2]
+
+
+
+
+
+
+
+
